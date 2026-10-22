@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "FLASH")(type "KiCad")(uri "C:/Users/ionel/OneDrive - ICT Berufsfachschulen Kanton Thurgau/Desktop/Berufsschule/Micro Air Vehicle/Micro_Air_Vehicle_KiCAD/libraries/LIB_FLASH/W25Q64JVZPIM/KiCad/W25Q64JVZPIM.kicad_sym")(options "")(descr "W25Q64JVZPIM "))
+  (lib (name "40MHz")(type "KiCad")(uri "C:/Users/ionel/OneDrive - ICT Berufsfachschulen Kanton Thurgau/Desktop/Berufsschule/Micro Air Vehicle/Micro_Air_Vehicle_KiCAD/libraries/40MHz Quarz/830108208709/KiCad/40MHz_Quarz.kicad_sym")(options "")(descr "40MHzQuarz"))
+  (lib (name "BMI270")(type "KiCad")(uri "C:/Users/ionel/OneDrive - ICT Berufsfachschulen Kanton Thurgau/Desktop/Berufsschule/Micro Air Vehicle/Micro_Air_Vehicle_KiCAD/libraries/LIB_BMI270/BMI270/KiCad/BMI270.kicad_sym")(options "")(descr "BMI270"))
+  (lib (name "Antenne-Stecker")(type "KiCad")(uri "C:/Users/ionel/OneDrive - ICT Berufsfachschulen Kanton Thurgau/Desktop/Berufsschule/Micro Air Vehicle/Micro_Air_Vehicle_KiCAD/libraries/LIB_Antennen-Stecker/CONMHF1-SMD-G-T/KiCad/CONMHF1-SMD-G-T.kicad_sym")(options "")(descr "Antenne-Stecker"))
+  (lib (name "ESP-PSRAM64H")(type "KiCad")(uri "C:/Users/ionel/OneDrive - ICT Berufsfachschulen Kanton Thurgau/Desktop/Berufsschule/Micro Air Vehicle/Micro_Air_Vehicle_KiCAD/libraries/LIB_PSRAM/4677/KiCad/4677.kicad_sym")(options "")(descr "ESP-PSRAM64H"))
+  (lib (name "USB-Stecker")(type "KiCad")(uri "C:/Users/ionel/OneDrive - ICT Berufsfachschulen Kanton Thurgau/Desktop/Berufsschule/Micro Air Vehicle/Micro_Air_Vehicle_KiCAD/libraries/LIB_USB4800-03-A/USB4800-03-A/KiCad/USB4800-03-A.kicad_sym")(options "")(descr "USB-Stecker"))
+  (lib (name "Diode-D1")(type "KiCad")(uri "C:/Users/ionel/OneDrive - ICT Berufsfachschulen Kanton Thurgau/Desktop/Berufsschule/Micro Air Vehicle/Micro_Air_Vehicle_KiCAD/libraries/LIB_Diode_D1/CPDV3V3A-HF/KiCad/CPDV3V3A-HF.kicad_sym")(options "")(descr "Diode-D1"))
+  (lib (name "ESP32-S3-WROOM-1-N8R2")(type "KiCad")(uri "C:/Users/ionel/OneDrive - ICT Berufsfachschulen Kanton Thurgau/Desktop/Berufsschule/Micro Air Vehicle/Micro_Air_Vehicle_KiCAD/libraries/LIB_ESP32-S3-WROOM-1-N8R2/ESP32-S3-WROOM-1-N8R2/KiCad/ESP32-S3-WROOM-1-N8R2.kicad_sym")(options "")(descr "ESP32-S3-WROOM-1-N8R2"))
+)

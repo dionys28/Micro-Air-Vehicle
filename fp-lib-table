@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MAV_Footprints")(type "KiCad")(uri "C:/Users/ionel/OneDrive - ICT Berufsfachschulen Kanton Thurgau/Desktop/Berufsschule/Micro Air Vehicle/Micro_Air_Vehicle_KiCAD/libraries/MAV_Footprints.pretty")(options "")(descr "MAV_Footprints"))
+)
