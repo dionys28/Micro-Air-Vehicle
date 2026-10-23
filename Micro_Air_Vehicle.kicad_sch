@@ -8373,7 +8373,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
 			(at 237.49 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -8779,7 +8779,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
 			(at 237.49 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -9342,7 +9342,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
 			(at 237.49 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -13397,7 +13397,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D3.0mm"
+		(property "Footprint" "LED_SMD:LED_1206_3216Metric"
 			(at 237.49 80.01 0)
 			(hide yes)
 			(show_name no)
