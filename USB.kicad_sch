@@ -2977,7 +2977,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MAV_Footprints:USB480003A"
+		(property "Footprint" "USB480003A"
 			(at 127 176.2 0)
 			(hide yes)
 			(show_name no)
