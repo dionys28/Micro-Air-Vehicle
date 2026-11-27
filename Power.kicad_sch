@@ -4582,7 +4582,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "9ec43638-b566-44a0-9d4f-5da3def006c9")
 		(property "Reference" "SW1"
@@ -5552,7 +5552,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e9fb7397-74ff-40cd-abb1-13629b1ca485")
 		(property "Reference" "J2"
 			(at 194.31 96.52 0)
