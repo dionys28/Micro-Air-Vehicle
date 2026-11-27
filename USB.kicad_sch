@@ -2127,6 +2127,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14677"
+			(at 95.25 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 95.25 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d65a71b2-94a4-4a68-9642-d8a4d037159c")
 		)
@@ -2206,6 +2228,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14677"
+			(at 146.05 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 146.05 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "33128d36-3987-48fc-9c6c-b47f404a7573")
 		)
@@ -2242,7 +2286,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22R"
 			(at 172.72 84.328 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2276,6 +2320,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 172.72 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1203"
+			(at 172.72 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 172.72 86.36 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2367,6 +2433,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 182.88 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 182.88 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1aab3e79-45d2-4527-bee6-c6a0538d104a")
 		)
@@ -2403,7 +2491,7 @@
 				)
 			)
 		)
-		(property "Value" "22"
+		(property "Value" "22R"
 			(at 172.72 89.408 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2437,6 +2525,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 172.72 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1203"
+			(at 172.72 91.44 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 172.72 91.44 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2759,6 +2869,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 193.04 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 193.04 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6a184e9d-2b39-4281-b11c-9bc5172d2489")
 		)
@@ -2840,6 +2972,28 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.ch/de/ProductDetail/Texas-Instruments/TPD2EUSB30ADRTR?qs=O1HRStiETCgOfMa6oTfOlg%3D%3D&utm_id=24220445008&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=24220445008&gclid=CjwKCAjwirLWBhBBEiwAlItbElsKiDqDwu6fHKHibAwgmaa3rL_dgxIPOWnTHulOeTDVYe_f8xBXdxoC024QAvD_BwE"
+			(at 148.59 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C94934"
+			(at 148.59 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 148.59 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -3070,6 +3224,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 100.33 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 100.33 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "A1"

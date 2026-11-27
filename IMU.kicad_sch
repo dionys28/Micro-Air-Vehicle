@@ -1470,6 +1470,28 @@
 				(justify left top)
 			)
 		)
+		(property "LCSC Part #" "C2836813"
+			(at 127 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 127 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "14"
 			(uuid "46bd7097-bded-420e-8944-030906079b0b")
 		)
@@ -1666,6 +1688,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C1590"
+			(at 127 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 127 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "42e5026a-0c93-4394-b3c9-3079731e4bd8")
 		)
@@ -1816,6 +1860,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 166.37 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1590"
+			(at 166.37 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 166.37 102.87 0)
 			(hide yes)
 			(show_name no)

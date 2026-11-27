@@ -3093,6 +3093,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14675"
+			(at 213.36 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 213.36 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b3f7e619-793c-45e8-b9f0-8bd925feefb8")
 		)
@@ -3165,6 +3187,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 95.25 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15850"
+			(at 95.25 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 95.25 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -3334,6 +3378,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C1590"
+			(at 85.09 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 85.09 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cbda7854-3196-4978-9d27-5b8d216df013")
 		)
@@ -3405,6 +3471,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 130.81 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15850"
+			(at 130.81 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 130.81 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -3807,6 +3895,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C4211"
+			(at 90.17 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 90.17 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e7f1a64f-5ccf-422b-a6b2-79f9febf8e22")
 		)
@@ -4124,6 +4234,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C54313"
+			(at 119.38 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 119.38 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "9"
 			(uuid "886f3fdd-c2ec-4daf-84c1-1534da7b6828")
 		)
@@ -4239,6 +4371,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 90.17 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C2924132"
+			(at 90.17 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 90.17 140.97 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4495,6 +4649,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 201.93 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 201.93 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6ae04842-ebab-4b66-94d8-6d62864df8b7")
 		)
@@ -4579,6 +4755,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C15850"
+			(at 140.97 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 140.97 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9c9931ae-2bf7-4615-828c-0c6c12f50bba")
 		)
@@ -4651,6 +4849,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 144.78 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15850"
+			(at 144.78 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 144.78 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -4975,6 +5195,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C15850"
+			(at 77.47 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 77.47 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "eb0ba33a-334d-4550-aad9-a68b440fa87d")
 		)
@@ -5133,6 +5375,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C15516"
+			(at 114.3 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 114.3 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b9c32928-9c07-44f7-a314-67b36698eb25")
 		)
@@ -5242,6 +5506,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C15850"
+			(at 157.48 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 157.48 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1941a235-eaac-4398-95d2-74c9ab8be8f4")
 		)
@@ -5311,6 +5597,28 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 194.31 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 194.31 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 194.31 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -5492,6 +5800,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C2762016"
+			(at 99.06 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 99.06 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bae42940-40bb-4e02-b189-1e6ff8f50661")
 		)
@@ -5562,6 +5892,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 138.43 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15401"
+			(at 138.43 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 138.43 140.97 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

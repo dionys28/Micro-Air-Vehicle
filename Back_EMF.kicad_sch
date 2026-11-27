@@ -5771,6 +5771,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C15401"
+			(at 118.11 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 118.11 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a5bcad95-0eba-401a-ae28-03a74d566905")
 		)
@@ -5852,6 +5874,28 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.ch/de/ProductDetail/Texas-Instruments/LMV339IPWR?qs=w32V8uFkMxnKkcvkbEe%252BtA%3D%3D&srsltid=AU7gw4W-dyf6PhfHqcwNmyY8MX_VwVACe2I8zJ7zNsgWLF6mm6e4lN-o"
+			(at 238.76 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C273648"
+			(at 238.76 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 238.76 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -6145,6 +6189,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C273648"
+			(at 52.07 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 52.07 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "e0bd471b-699f-4bf8-a33e-bebfb298615d")
 		)
@@ -6260,6 +6326,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23344"
+			(at 86.36 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 86.36 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "615d5fa4-390e-451d-a08d-afca64737378")
 		)
@@ -6332,6 +6420,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 91.44 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 91.44 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 91.44 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -6421,6 +6531,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C15401"
+			(at 63.5 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 63.5 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "896945ce-be7f-4a34-b729-9a1cc598c0ce")
 		)
@@ -6491,6 +6623,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 195.58 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15401"
+			(at 195.58 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 195.58 67.31 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6581,6 +6735,28 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.ch/de/ProductDetail/Texas-Instruments/LMV339IPWR?qs=w32V8uFkMxnKkcvkbEe%252BtA%3D%3D&srsltid=AU7gw4W-dyf6PhfHqcwNmyY8MX_VwVACe2I8zJ7zNsgWLF6mm6e4lN-o"
+			(at 106.68 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C273648"
+			(at 106.68 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 106.68 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -6862,6 +7038,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23344"
+			(at 45.72 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 45.72 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9659f582-0c17-4f8c-b8e2-f53f43e67860")
 		)
@@ -6932,6 +7130,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 218.44 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23344"
+			(at 218.44 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 218.44 34.29 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7098,6 +7318,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23344"
+			(at 39.37 22.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 39.37 22.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "62f1608f-f319-4049-bf3a-e36930a229fb")
 		)
@@ -7168,6 +7410,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 250.19 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15401"
+			(at 250.19 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 250.19 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7256,6 +7520,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C15401"
+			(at 146.05 179.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 146.05 179.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fa39b8b7-330e-45af-8e37-df6ec5bb4119")
 		)
@@ -7326,6 +7612,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 146.05 168.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C18681"
+			(at 146.05 168.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 146.05 168.91 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7650,6 +7958,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C1590"
+			(at 55.88 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 55.88 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7d950125-55b7-45aa-8c85-702bbb46f713")
 		)
@@ -7810,6 +8140,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 50.8 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 50.8 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "87edb8a9-9010-4242-aa2e-a32c0e426074")
 		)
@@ -7891,6 +8243,28 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.ch/de/ProductDetail/Texas-Instruments/LMV339IPWR?qs=w32V8uFkMxnKkcvkbEe%252BtA%3D%3D&srsltid=AU7gw4W-dyf6PhfHqcwNmyY8MX_VwVACe2I8zJ7zNsgWLF6mm6e4lN-o"
+			(at 106.68 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C273648"
+			(at 106.68 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 106.68 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -8016,6 +8390,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23344"
+			(at 80.01 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 80.01 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a73f7678-fc3d-47a7-9745-69a6b739a1e1")
 		)
@@ -8086,6 +8482,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 118.11 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15401"
+			(at 118.11 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 118.11 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8177,6 +8595,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 133.35 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 133.35 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a6a33c29-c8d2-4e9d-8874-8fdd124d29fd")
 		)
@@ -8258,6 +8698,28 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.ch/de/ProductDetail/Texas-Instruments/LMV339IPWR?qs=w32V8uFkMxnKkcvkbEe%252BtA%3D%3D&srsltid=AU7gw4W-dyf6PhfHqcwNmyY8MX_VwVACe2I8zJ7zNsgWLF6mm6e4lN-o"
+			(at 52.07 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C273648"
+			(at 52.07 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 52.07 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -8383,6 +8845,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23344"
+			(at 254 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 254 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "acd530ec-1b32-4992-8ea4-86800ee102e9")
 		)
@@ -8464,6 +8948,28 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.ch/de/ProductDetail/Texas-Instruments/LMV339IPWR?qs=w32V8uFkMxnKkcvkbEe%252BtA%3D%3D&srsltid=AU7gw4W-dyf6PhfHqcwNmyY8MX_VwVACe2I8zJ7zNsgWLF6mm6e4lN-o"
+			(at 238.76 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C273648"
+			(at 238.76 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 238.76 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -8601,6 +9107,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C273648"
+			(at 184.15 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 184.15 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "59095c38-ae5e-47aa-a579-d074d21fe456")
 		)
@@ -8719,6 +9247,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 50.8 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 50.8 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "da8a0261-a0f9-42db-a627-348c0d299e64")
 		)
@@ -8790,6 +9340,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 80.01 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1590"
+			(at 80.01 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 80.01 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -8883,6 +9455,28 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.ch/de/ProductDetail/Texas-Instruments/LMV339IPWR?qs=w32V8uFkMxnKkcvkbEe%252BtA%3D%3D&srsltid=AU7gw4W-dyf6PhfHqcwNmyY8MX_VwVACe2I8zJ7zNsgWLF6mm6e4lN-o"
+			(at 44.45 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C273648"
+			(at 44.45 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 44.45 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -9010,6 +9604,28 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.ch/de/ProductDetail/Texas-Instruments/LMV339IPWR?qs=w32V8uFkMxnKkcvkbEe%252BtA%3D%3D&srsltid=AU7gw4W-dyf6PhfHqcwNmyY8MX_VwVACe2I8zJ7zNsgWLF6mm6e4lN-o"
+			(at 106.68 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C273648"
+			(at 106.68 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 106.68 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -9225,6 +9841,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C273648"
+			(at 184.15 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 184.15 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "e0bd471b-699f-4bf8-a33e-bebfb2986162")
 		)
@@ -9354,6 +9992,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C273648"
+			(at 92.71 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 92.71 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "e0bd471b-699f-4bf8-a33e-bebfb2986163")
 		)
@@ -9460,6 +10120,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 260.35 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23344"
+			(at 260.35 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 260.35 96.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9640,6 +10322,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C273648"
+			(at 116.84 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 116.84 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "e0bd471b-699f-4bf8-a33e-bebfb2986164")
 		)
@@ -9757,6 +10461,28 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.ch/de/ProductDetail/Texas-Instruments/LMV339IPWR?qs=w32V8uFkMxnKkcvkbEe%252BtA%3D%3D&srsltid=AU7gw4W-dyf6PhfHqcwNmyY8MX_VwVACe2I8zJ7zNsgWLF6mm6e4lN-o"
+			(at 52.07 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C273648"
+			(at 52.07 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 52.07 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -9885,6 +10611,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 133.35 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 133.35 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6f0a23ff-19c4-42e2-ac6d-32aa9c93c5bf")
 		)
@@ -9955,6 +10703,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 63.5 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15401"
+			(at 63.5 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 63.5 133.35 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10043,6 +10813,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23344"
+			(at 128.27 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 128.27 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fa93c2df-4f6e-4404-98c1-cd0a8d9bfad2")
 		)
@@ -10122,6 +10914,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C15401"
+			(at 63.5 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 63.5 67.31 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "30e21e29-9e56-4c00-afa3-b00f1b9ead2d")
 		)
@@ -10192,6 +11006,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 177.8 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23344"
+			(at 177.8 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 177.8 30.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10448,6 +11284,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C273648"
+			(at 184.15 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 184.15 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "01cf5490-e7c4-48ef-a08e-7fe0e6072b8b")
 		)
@@ -10554,6 +11412,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 86.36 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23344"
+			(at 86.36 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 86.36 34.29 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10723,6 +11603,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 91.44 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 91.44 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "40d15018-3fa9-412c-b935-3324a0252795")
 		)
@@ -10871,6 +11773,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 195.58 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15401"
+			(at 195.58 114.3 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 195.58 114.3 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11115,6 +12039,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C15401"
+			(at 195.58 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 195.58 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "332b1c59-218c-455b-8869-0c7cc883d103")
 		)
@@ -11186,6 +12132,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 104.14 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1590"
+			(at 104.14 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 104.14 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -11353,6 +12321,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23344"
+			(at 212.09 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 212.09 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b016d98c-86a1-4026-a6b5-69a9375b3e86")
 		)
@@ -11435,6 +12425,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 182.88 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 182.88 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "23a66259-f353-488b-8adc-d73381f05a70")
 		)
@@ -11506,6 +12518,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 31.75 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1590"
+			(at 31.75 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 31.75 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -11673,6 +12707,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23344"
+			(at 218.44 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 218.44 100.33 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "40461aec-50cc-4ae6-9633-870f07897c04")
 		)
@@ -11743,6 +12799,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 171.45 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23344"
+			(at 171.45 22.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 171.45 22.86 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11823,6 +12901,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 153.67 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1590"
+			(at 153.67 179.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 153.67 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -11914,6 +13014,28 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.ch/de/ProductDetail/Texas-Instruments/LMV339IPWR?qs=w32V8uFkMxnKkcvkbEe%252BtA%3D%3D&srsltid=AU7gw4W-dyf6PhfHqcwNmyY8MX_VwVACe2I8zJ7zNsgWLF6mm6e4lN-o"
+			(at 238.76 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C273648"
+			(at 238.76 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 238.76 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -12195,6 +13317,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23344"
+			(at 212.09 27.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 212.09 27.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "85f0a18b-be8d-4077-8d71-8fde98548ee4")
 		)
@@ -12265,6 +13409,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 260.35 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23344"
+			(at 260.35 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 260.35 30.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12431,6 +13597,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23344"
+			(at 128.27 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 128.27 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "34713f3d-0011-4b35-9913-bf86e4e3c275")
 		)
@@ -12501,6 +13689,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 80.01 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23344"
+			(at 80.01 27.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 80.01 27.94 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12589,6 +13799,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23344"
+			(at 45.72 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 45.72 30.48 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5cd90018-eb48-4abb-82b5-1430aee0918d")
 		)
@@ -12668,6 +13900,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23344"
+			(at 39.37 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 39.37 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "779fc1be-cf97-4608-ae5b-6f46a1bf11a2")
 		)
@@ -12738,6 +13992,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 171.45 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23344"
+			(at 171.45 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 171.45 88.9 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12828,6 +14104,28 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.ch/de/ProductDetail/Texas-Instruments/LMV339IPWR?qs=w32V8uFkMxnKkcvkbEe%252BtA%3D%3D&srsltid=AU7gw4W-dyf6PhfHqcwNmyY8MX_VwVACe2I8zJ7zNsgWLF6mm6e4lN-o"
+			(at 238.76 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C273648"
+			(at 238.76 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 238.76 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -13100,6 +14398,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 254 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23344"
+			(at 254 22.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 254 22.86 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13434,6 +14754,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C273648"
+			(at 184.15 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 184.15 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "e0bd471b-699f-4bf8-a33e-bebfb2986167")
 		)
@@ -13705,6 +15047,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23344"
+			(at 121.92 22.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 121.92 22.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2e0995eb-5755-4ea0-8295-655dab538baf")
 		)
@@ -13786,6 +15150,28 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.ch/de/ProductDetail/Texas-Instruments/LMV339IPWR?qs=w32V8uFkMxnKkcvkbEe%252BtA%3D%3D&srsltid=AU7gw4W-dyf6PhfHqcwNmyY8MX_VwVACe2I8zJ7zNsgWLF6mm6e4lN-o"
+			(at 52.07 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C273648"
+			(at 52.07 138.43 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 52.07 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -13902,6 +15288,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 177.8 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23344"
+			(at 177.8 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 177.8 96.52 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14068,6 +15476,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23344"
+			(at 121.92 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 121.92 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "613ec1da-fe24-4460-8015-814c07a7b006")
 		)
@@ -14149,6 +15579,28 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.ch/de/ProductDetail/Texas-Instruments/LMV339IPWR?qs=w32V8uFkMxnKkcvkbEe%252BtA%3D%3D&srsltid=AU7gw4W-dyf6PhfHqcwNmyY8MX_VwVACe2I8zJ7zNsgWLF6mm6e4lN-o"
+			(at 106.68 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C273648"
+			(at 106.68 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 106.68 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -14267,6 +15719,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 182.88 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 182.88 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 182.88 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -14437,6 +15911,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 265.43 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 265.43 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b28b2923-0c2e-4924-bea6-6e5086dd7aff")
 		)
@@ -14507,6 +16003,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 63.5 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15401"
+			(at 63.5 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 63.5 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14588,6 +16106,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 223.52 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 223.52 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 223.52 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -14680,6 +16220,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 265.43 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 265.43 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ce869615-6fe3-4dad-a0e7-d4a4555d45ec")
 		)
@@ -14750,6 +16312,28 @@
 		)
 		(property "Description" "Resistor"
 			(at 195.58 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15401"
+			(at 195.58 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 195.58 133.35 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14838,6 +16422,28 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C15401"
+			(at 250.19 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
+			(at 250.19 48.26 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "68c76206-2f70-4399-a3c5-581a8869750c")
 		)
@@ -14910,6 +16516,28 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 223.52 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
+			(at 223.52 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 223.52 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -15003,6 +16631,28 @@
 			)
 		)
 		(property "Mouser" "https://www.mouser.ch/de/ProductDetail/Texas-Instruments/LMV339IPWR?qs=w32V8uFkMxnKkcvkbEe%252BtA%3D%3D&srsltid=AU7gw4W-dyf6PhfHqcwNmyY8MX_VwVACe2I8zJ7zNsgWLF6mm6e4lN-o"
+			(at 68.58 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C273648"
+			(at 68.58 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.4_AVDD" ""
 			(at 68.58 175.26 0)
 			(hide yes)
 			(show_name no)
