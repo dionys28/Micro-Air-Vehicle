@@ -34701,19 +34701,6 @@
 		(layer "Edge.Cuts")
 		(uuid "575f5f32-3508-4b85-97e9-c58ba0123380")
 	)
-	(gr_text "Micro Air Vehicle\n21.11.2026\nNIO"
-		(at 166.61 81.28 270)
-		(layer "F.SilkS")
-		(uuid "c375a6ae-a0ab-4664-a40f-c7a293cdea15")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
 	(point
 		(at 210.8 146.4)
 		(size 1)
