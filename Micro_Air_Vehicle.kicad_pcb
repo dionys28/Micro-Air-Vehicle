@@ -34714,6 +34714,12 @@
 			(justify left bottom)
 		)
 	)
+	(point
+		(at 210.8 146.4)
+		(size 1)
+		(layer "B.Cu")
+		(uuid "1e4dac3e-8b64-4f61-8da5-33b65618a67d")
+	)
 	(segment
 		(start 153.535 88.55)
 		(end 153.527 88.558)
